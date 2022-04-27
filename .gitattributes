@@ -1,0 +1,6 @@
+. filter=lfs diff=lfs merge=lfs -text
+all_jar.zip filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+*.zip filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> d2f6aabea1fd10841f9d827a664c1159fb59a35f
